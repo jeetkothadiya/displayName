@@ -1,10 +1,8 @@
-import Stopwatch from "./Stopwatch";
+import DisplayName from "./DisplayName";
 
 function App() {
   return (
-    <div className="App">
-      <Stopwatch />
-    </div>
+      <DisplayName />
   );
 }
 
